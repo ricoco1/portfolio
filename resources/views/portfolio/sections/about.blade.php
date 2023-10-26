@@ -29,6 +29,10 @@
                     yang lebih baik, dan sebagai seorang programmer, saya ingin
                     berperan dalam mewujudkan potensi tersebut.
                     <br />
+                    Saya selalu terbuka untuk belajar hal-hal baru dan berbagi
+                    pengetahuan dengan komunitas. Jika Anda tertarik untuk berdiskusi
+                    atau bekerja sama dalam proyek, jangan ragu untuk menghubungi
+                    saya. Terima kasih telah mengunjungi profil saya!
                 </p>
                 <a href="#contact-me" class="btn btn-primary py-3 px-5 rounded-0">Hubungi saya</a>
             </div>
