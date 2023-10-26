@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="{{ asset('vendors/bootstarp/css/bootstrap.min.css') }}">
     <link rel="stylesheet" href="{{ asset('vendors/boxicon/css/boxicons.min.css') }}">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    
+
     <!-- Font Awesome icons (free version)-->
     <script src="vendors/fontawesome-free-6.4.2-web/js/all.js" crossorigin="anonymous"></script>
     <!-- Google fonts-->
@@ -24,7 +24,7 @@
     @yield('content')
     <footer class="py-3">
         <div class="container">
-            <p class="text-white fs-7 mb-0">Copyright &copy; 2023 Rico Pratama. All Right Reserved</p>
+            {{-- <p class="text-white fs-7 mb-0">Copyright &copy; 2023 Rico Pratama. All Right Reserved</p> --}}
         </div>
     </footer>
     <script src="{{ asset('vendors/bootstarp/js/bootstrap.bundle.min.js') }}"></script>
