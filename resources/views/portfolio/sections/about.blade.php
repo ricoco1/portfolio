@@ -4,7 +4,7 @@
             <div class="col-md-10">
                 <h1 class="header-title text-white fw-normal mb-2">
                     Hello, I'm <br />
-                    a Programmer
+                    Rico Pratama
                 </h1>
             </div>
             <div class="col-md-6 justify">
